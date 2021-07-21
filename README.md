@@ -4,7 +4,7 @@ Simulations of the dynamics of Quantum Harmonic Oscillator and their Results. Th
 
 
 ## Vizualization of QHO Excited states by using raising operator
-![QHO Excited states](https://github.com/GraniteMask/Quantum-Harmonic-Oscillator/blob/master/excitedStates.png?raw=true)
+![QHO Excited states](https://github.com/GraniteMask/Quantum-Harmonic-Oscillator/blob/master/excitedStates.PNG?raw=true)
 
 ## Visualization of QHO truncated Eigenstates 
 ![QHO truncated Eigenstates](https://github.com/GraniteMask/Quantum-Harmonic-Oscillator/blob/master/TruncatedEigenstates.png?raw=true)
