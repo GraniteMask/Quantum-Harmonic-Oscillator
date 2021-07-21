@@ -9,6 +9,6 @@ Simulations of the dynamics of Quantum Harmonic Oscillator and their Results. Th
 ## Visualization of QHO truncated Eigenstates 
 ![QHO truncated Eigenstates](https://github.com/GraniteMask/Quantum-Harmonic-Oscillator/blob/master/TruncatedEigenstates.PNG?raw=true)
 
-## Site and Energu basis Visualization
+## Site and Energy basis Visualization
 
 ![Site and Energu basis Visualization](https://github.com/GraniteMask/Quantum-Harmonic-Oscillator/blob/master/siteEnergy.PNG?raw=true)
