@@ -7,8 +7,8 @@ Simulations of the dynamics of Quantum Harmonic Oscillator and their Results. Th
 ![QHO Excited states](https://github.com/GraniteMask/Quantum-Harmonic-Oscillator/blob/master/excitedStates.PNG?raw=true)
 
 ## Visualization of QHO truncated Eigenstates 
-![QHO truncated Eigenstates](https://github.com/GraniteMask/Quantum-Harmonic-Oscillator/blob/master/TruncatedEigenstates.png?raw=true)
+![QHO truncated Eigenstates](https://github.com/GraniteMask/Quantum-Harmonic-Oscillator/blob/master/TruncatedEigenstates.PNG?raw=true)
 
 ## Site and Energu basis Visualization
 
-![Site and Energu basis Visualization](https://github.com/GraniteMask/Quantum-Harmonic-Oscillator/blob/master/siteEnergy.png?raw=true)
+![Site and Energu basis Visualization](https://github.com/GraniteMask/Quantum-Harmonic-Oscillator/blob/master/siteEnergy.PNG?raw=true)
